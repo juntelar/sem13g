@@ -1,4 +1,5 @@
-{
+([
+	{
 		"name": "Zephr Townsend",
 		"text": "amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
 		"region": "Gävleborgs län",
@@ -28,3 +29,4 @@
 		"region": "Limón",
 		"email": "odio.a@icloud.couk"
 	}
+])
